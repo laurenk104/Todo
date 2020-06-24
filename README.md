@@ -4,7 +4,7 @@
 
 Submitted by: **Lauren Krieger**
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,15 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## GIF Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough/adding.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough/adding.gif' title='adding items' width='' alt='adding items' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='walkthrough/removing.gif' title='removing items' width='' alt='removing items' />
+
+<img src='walkthrough/preserving.gif' title='item preservance' width='' alt='item preservance' />
 
 ## Notes
 
