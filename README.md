@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 The user can add items    
 <img src='walkthrough/adding.gif' title='adding items' width='' alt='adding items' />
 
-The user can remove items. In this case "bye!" is not really a task to do, so it was removed.   
+The user can remove items by long-clicking on them. In this case "bye!" is not really a task to do, so it was removed.   
 <img src='walkthrough/removing.gif' title='removing items' width='' alt='removing items' />
 
 If the user chooses to exit the app, their data is saved   
