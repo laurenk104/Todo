@@ -27,18 +27,21 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough/adding.gif' title='adding items' width='' alt='adding items' />
+The user can add items
 
 <img src='walkthrough/removing.gif' title='removing items' width='' alt='removing items' />
+The user can remove items. In this case "bye!" is not really a task to do, so it was removed.
 
 <img src='walkthrough/preserving.gif' title='item preservance' width='' alt='item preservance' />
+If the user chooses to exit the app, their data is saved
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had some difficulty setting up git and Android Studio, but making the app itself was fine.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
